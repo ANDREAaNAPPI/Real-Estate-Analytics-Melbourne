@@ -8,3 +8,5 @@ Here you can find:
 - [My PDF Report](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne/blob/main/Real%20Estate%20Melbourne%20data%20analysis%20Report.pdf)
   The report was performed as if it had been the final product for a real estate business, so I tried to present the insights and explain them in a non-technical language, including only meaningful insights, and 
   without mentioning unnecessary technical details.
+- [The data I have been working on](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
+  You can also find the data in the repository, [here](https://github.com/ANDREAaNAPPI/Real-Estate-Analytics-Melbourne/blob/main/Melbourne%20housing%20Data.zip)
